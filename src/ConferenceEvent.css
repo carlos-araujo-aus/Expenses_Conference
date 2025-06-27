@@ -248,15 +248,6 @@
   .table_item_data tbody tr:first-child:hover {
     background-color: transparent;
   }
-  navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 20px;
-    background-color:#133b6a;
-    color: white;
-    width: 100vw;
-  }
   
   .company_logo {
     font-size: 30px;
@@ -307,6 +298,13 @@
     position: fixed;
     top: 1px;
     z-index: 99;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background-color:#133b6a;
+    color: white;
+    width: 100vw;
   }
   .btn-disabled {
     opacity: 0.5; /* Reduce opacity to visually indicate disabled state */
