@@ -4,13 +4,18 @@ const AboutUs = () => {
     return (
         <div className="aboutus_container">
             <p>
-                Welcome to BudgetEase Solutions, your trusted partner in simplifying budget management and financial solutions. At BudgetEase, we understand the importance of effective budget planning and strive to provide intuitive, user-friendly solutions to meet the diverse needs of our clients.
+                Hello! We're ExpenseTracker Pro, and we're here to make managing your money as simple as checking your phone. We know that dealing with budgets and expenses can feel overwhelming, so we've created tools that actually make sense and work the way you think.
             </p>
-            <p>With a commitment to efficiency and innovation, we empower individuals and businesses to take control of their finances and achieve their goals with ease.</p>
-            <p>At BudgetEase Solutions, our mission is to make budgeting effortless and accessible for everyone. Whether you're a small business owner, a busy professional, or an individual looking to manage your personal finances, we offer tailored solutions to streamline your budgeting process.
+            <p>
+                Our goal is simple: help you spend smarter, save more, and stress less about money. We believe everyone deserves to feel confident about their finances, no matter where they're starting from.
             </p>
-            {/* <p>                Our team of experts is dedicated to providing exceptional service and support, guiding you every step of the way to financial success. With BudgetEase Solutions, you can trust us to simplify your finances and pave the way for a brighter financial future.
-            </p> */}
+            <p>
+                Whether you're tracking your morning coffee expenses, planning a family vacation, or managing your business costs, we've got your back. Our friendly interface grows with you - from simple expense tracking to detailed financial insights that help you make better money decisions.
+            </p>
+            {
+            /* <p>We're a team of real people who understand that money management isn't just about numbers - it's about achieving the life you want. That's why we're committed to making tools that don't just work, but actually help you succeed.
+            </p> */
+            }
         </div>
     )
 }
